@@ -29,3 +29,7 @@
 - `last_funding_at` - дата последнего раунда финансирования;
 - `closed_at` - дата закрытия стартапа (если применимо);
 - `lifetime` - время существования стартапа в днях.
+
+**Результат Late submission в соревновании на kaggle:**
+
+![result](README/Late-submission-result.png)
